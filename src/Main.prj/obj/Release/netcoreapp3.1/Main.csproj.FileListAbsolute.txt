@@ -1,0 +1,13 @@
+C:\Users\Admin\Desktop\C#\JavaCompiler\JavaLexCounter\src\Main.prj\bin\Release\netcoreapp3.1\Main.exe
+C:\Users\Admin\Desktop\C#\JavaCompiler\JavaLexCounter\src\Main.prj\bin\Release\netcoreapp3.1\Main.deps.json
+C:\Users\Admin\Desktop\C#\JavaCompiler\JavaLexCounter\src\Main.prj\bin\Release\netcoreapp3.1\Main.runtimeconfig.json
+C:\Users\Admin\Desktop\C#\JavaCompiler\JavaLexCounter\src\Main.prj\bin\Release\netcoreapp3.1\Main.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\C#\JavaCompiler\JavaLexCounter\src\Main.prj\bin\Release\netcoreapp3.1\Main.dll
+C:\Users\Admin\Desktop\C#\JavaCompiler\JavaLexCounter\src\Main.prj\bin\Release\netcoreapp3.1\Main.pdb
+C:\Users\Admin\Desktop\C#\JavaCompiler\JavaLexCounter\src\Main.prj\obj\Release\netcoreapp3.1\Main.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\C#\JavaCompiler\JavaLexCounter\src\Main.prj\obj\Release\netcoreapp3.1\Main.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\C#\JavaCompiler\JavaLexCounter\src\Main.prj\obj\Release\netcoreapp3.1\Main.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\C#\JavaCompiler\JavaLexCounter\src\Main.prj\obj\Release\netcoreapp3.1\Main.AssemblyInfo.cs
+C:\Users\Admin\Desktop\C#\JavaCompiler\JavaLexCounter\src\Main.prj\obj\Release\netcoreapp3.1\Main.dll
+C:\Users\Admin\Desktop\C#\JavaCompiler\JavaLexCounter\src\Main.prj\obj\Release\netcoreapp3.1\Main.pdb
+C:\Users\Admin\Desktop\C#\JavaCompiler\JavaLexCounter\src\Main.prj\obj\Release\netcoreapp3.1\Main.genruntimeconfig.cache

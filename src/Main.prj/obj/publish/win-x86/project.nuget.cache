@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "7XAwJNGJycQkBideNmpAqxM1ZEZNQt3j3F+dgKoKP2tIWQ1EU3kLCtgPCzYnVNv2g/iHpf1U4Rg/IzbYpSBCRw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Admin\\Desktop\\C#\\JavaCompiler\\JavaLexCounter\\src\\Main.prj\\Main.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x86\\3.1.3\\microsoft.netcore.app.runtime.win-x86.3.1.3.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x86\\3.1.3\\microsoft.windowsdesktop.app.runtime.win-x86.3.1.3.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x86\\3.1.3\\microsoft.aspnetcore.app.runtime.win-x86.3.1.3.nupkg.sha512"
+  ],
+  "logs": []
+}
